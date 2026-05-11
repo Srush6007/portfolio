@@ -1,8 +1,8 @@
-# 🚀 Srushti Portfolio
+# Srushti Portfolio
 
 Modern developer portfolio showcasing my web development and AI projects.
 
-## ✨ Features
+## Features
 
 - Futuristic responsive UI
 - Smooth scrolling navigation
@@ -12,7 +12,7 @@ Modern developer portfolio showcasing my web development and AI projects.
 - Mobile-friendly design
 - Dark themed modern interface
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Technologies                         |
 | -------- | ------------------------------------ |
@@ -21,7 +21,7 @@ Modern developer portfolio showcasing my web development and AI projects.
 | Tools    | Git, GitHub, VS Code                 |
 | UI/UX    | Modern Dark Theme, Responsive Layout |
 
-## 📸 Portfolio Preview
+## Portfolio Preview
 
 ### Hero Section
 
