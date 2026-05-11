@@ -25,16 +25,16 @@ Modern developer portfolio showcasing my web development and AI projects.
 
 ### Hero Section
 
-![Hero](./screenshots/hero.png)
+![Hero](./src/screenshots/hero.png)
 
 ### Skills Section
 
-![Skills](./screenshots/skills.png)
+![Skills](./src/screenshots/skills.png)
 
 ### Projects Section
 
-![Projects](./screenshots/projects.png)
+![Projects](./src/screenshots/projects.png)
 
 ### Achievements Section
 
-![Achievements](./screenshots/achievements.png)
+![Achievements](./src/screenshots/achievements.png)
